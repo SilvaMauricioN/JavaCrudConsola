@@ -42,5 +42,3 @@ Cada obra está **asociada a un autor** mediante su identificador (`idAutorPrinc
 - Se valida que los campos obligatorios no estén vacíos.
 
 ---
-
-## 🧱 Estructura del Proyecto
