@@ -1,0 +1,14 @@
+# Archivos compilados
+/bin/
+*.class
+
+# Archivos de configuración de entorno
+.vscode/
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+.DS_Store
+
+# Librerías externas (opcional si las gestionas localmente)
+lib/
